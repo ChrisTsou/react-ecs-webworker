@@ -1,4 +1,4 @@
-import useSmoothedFpsCounter from '../useSmoothedFpsCounter';
+import useSmoothedFpsCounter from '../utils/useSmoothedFpsCounter';
 import initialState from './initialState';
 import limitFrameRate from './limitFrameRate';
 import update from './update';
